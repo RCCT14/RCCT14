@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Re Costa 😁
+## Bem-vindo(a) ao meu perfil Re Costa 😁
 
  <div>
    <a href="https://github.com/RCCT14">
